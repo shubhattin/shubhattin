@@ -57,7 +57,7 @@
 
 ## 🌟 Featured Projects
 
-- **[Lipi Lekhika](https://app-lipilekhika.pages.dev/)** - A tool for Indian Languages with full speed and accuracy. [Windows Version](https://sourceforge.net/projects/lipilekhika/)
+- **[Lipi Lekhika](https://app-lipilekhika.pages.dev/)** - A tool for Indian Languages with full speed and accuracy. [Windows Version](https://sourceforge.net/projects/lipilekhika/). [Archived Source Code](https://github.com/shubhattin/old_lipi_lekhika_archive)
 - **[The Sanskrit Channel Projects Portal](https://github.com/shubhattin/thesanskritchannel_projects)** - A portal for The Sanskrit Channel Projects. Tools to automate, process and manage text projects. Equipped with Administrator and Collaborator roles for text translation. Eqiipped with AI for Image Generation and Translation.
 - **[Svara Darshini](https://github.com/shubhattin/svara_darshini)** - A tool to visualize, learn and understand the the pitches of Indian Classical and Western Music.
 - **[Padavali](https://github.com/shubhattin/padavali)** - A sanskrit word game to learn Ancient Sanskrit Wisdom is an interactive and engaging manner. Play and share youe achivements with your friends.
@@ -74,7 +74,7 @@
   
   <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhattin&theme=radical&hide_border=false) -->
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhattin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhattin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=html)
 
 </div>
 
