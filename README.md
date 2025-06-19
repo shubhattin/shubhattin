@@ -16,7 +16,7 @@
 - 🔭 I'm a **Full Stack Web Developer** with a passion for building scalable and user-friendly applications
 - 🌱 Currently exploring the fascinating intersection of **Web Software** and **Artificial Intelligence**
 - 💡 I love turning complex problems into simple and intuitive solutions
-- 🌱 I have a fascination for Indian Languages and its scripts.
+- 🌱 I have a fascination for Indian Languages and scripts.
 
 ---
 
@@ -64,13 +64,13 @@
 
 </div>
 
----
+<!-- ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics -->
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhattin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhattin&theme=radical&hide_border=false&include_all_commits=false&count_private=false) -->
   
   <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhattin&theme=radical&hide_border=false) -->
   
