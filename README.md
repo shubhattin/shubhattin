@@ -13,8 +13,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm a **Full Stack Web Developer** with a passion for building scalable and user-friendly applications
-- 🌱 Currently exploring the fascinating intersection of **Web Software** and **Artificial Intelligence**
+- 🔭 I'm a _Full Stack Web Developer_ with a passion for building scalable and user-friendly applications
+- 🌱 Currently exploring the fascinating intersection of **Web Software** and _Artificial Intelligence_
 - 💡 I love turning complex problems into simple and intuitive solutions
 - 🌱 I have a fascination for Indian Languages and scripts.
 
@@ -42,8 +42,11 @@
 ### Backend Development
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TRPC](https://img.shields.io/badge/trpc-%23000000.svg?style=for-the-badge&logo=trpc&logoColor=white)
+<br/>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Trpc](https://img.shields.io/badge/trpc-%23000000.svg?style=for-the-badge&logo=trpc&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
 
