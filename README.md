@@ -67,7 +67,7 @@
 
 ## 🌟 Featured Projects
 
-- **[Lipi Lekhika](https://lipilekhika.in)** - A tool for Indian Languages with full speed and accuracy. Packages for multiple Programming Languages (JS/TS, Rust, Go and Python). Supports all Modern Indian Scripts and some major Ancient Scripts.
+- **[Lipi Lekhika](https://github.com/shubhattin/lipilekhika)** - A tool for Indian Languages with full speed and accuracy. Packages for multiple Programming Languages (JS/TS, Rust, Go and Python). Supports all Modern Indian Scripts and some major Ancient Scripts.
 - **[The Sanskrit Channel Projects Portal](https://github.com/shubhattin/thesanskritchannel_projects)** - A portal for The Sanskrit Channel Projects. Tools to automate, process and manage text projects. Equipped with Administrator and Collaborator roles for text translation. Eqiipped with AI for Image Generation and Translation.
 - **[Svara Darshini](https://github.com/shubhattin/svara_darshini)** - A tool to visualize, learn and understand the the pitches of Indian Classical and Western Music.
 - **[Padavali](https://github.com/shubhattin/padavali)** - A sanskrit word game to learn Ancient Sanskrit Wisdom is an interactive and engaging manner. Play and share youe achivements with your friends. Play the word game in multiple Scripts (with Lipi Lekhika Integration)
