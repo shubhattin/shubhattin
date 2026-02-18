@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm **Shubham**
 
 <!-- <div align="center"> -->
-  
+
   <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;AI+%26+Web+Software+Enthusiast;Building+Amazing+Digital+Experiences)](https://git.io/typing-svg) -->
-  
+
 <!-- </div> -->
 
 ## 🧑‍💻 About Me
@@ -12,6 +12,18 @@
 - 🌱 Currently exploring the fascinating intersection of **Web Software** and _Artificial Intelligence_
 - 💡 I love turning complex problems into simple and intuitive solutions
 - 🌱 I have a fascination for Indian Languages and scripts and building solutions for them.
+
+---
+
+## 🌟 Featured Projects
+
+- **[Lipi Lekhika](https://github.com/shubhattin/lipilekhika)** - A tool for Indian Languages with full speed and accuracy. Packages for multiple Programming Languages (JS/TS, Rust, Go and Python). Supports all Modern Indian Scripts and some major Ancient Scripts.
+- **[The Sanskrit Channel Projects Portal](https://github.com/shubhattin/thesanskritchannel_projects)** - A portal for The Sanskrit Channel Projects. Tools to automate, process and manage text projects. Equipped with Administrator and Collaborator roles for text translation. Eqiipped with AI for Image Generation and Translation.
+- **[Svara Darshini](https://github.com/shubhattin/svara_darshini)** - A tool to visualize, learn and understand the the pitches of Indian Classical and Western Music.
+- **[Padavali](https://github.com/shubhattin/padavali)** - A sanskrit word game to learn Ancient Sanskrit Wisdom is an interactive and engaging manner. Play and share youe achivements with your friends. Play the word game in multiple Scripts (with Lipi Lekhika Integration)
+- **[Akshara](https://github.com/shubhattin/akshara-shikshaka/)** - A Platform for Interactive Script and Language Learning. Practice Script Gestures, Learn Pronunciations of words in different Scripts (powered by Lipi Lekhika).
+
+</div>
 
 ---
 
@@ -28,7 +40,6 @@
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
 
 ### Frontend Development
 
@@ -63,18 +74,6 @@
 
 </div>
 
----
-
-## 🌟 Featured Projects
-
-- **[Lipi Lekhika](https://github.com/shubhattin/lipilekhika)** - A tool for Indian Languages with full speed and accuracy. Packages for multiple Programming Languages (JS/TS, Rust, Go and Python). Supports all Modern Indian Scripts and some major Ancient Scripts.
-- **[The Sanskrit Channel Projects Portal](https://github.com/shubhattin/thesanskritchannel_projects)** - A portal for The Sanskrit Channel Projects. Tools to automate, process and manage text projects. Equipped with Administrator and Collaborator roles for text translation. Eqiipped with AI for Image Generation and Translation.
-- **[Svara Darshini](https://github.com/shubhattin/svara_darshini)** - A tool to visualize, learn and understand the the pitches of Indian Classical and Western Music.
-- **[Padavali](https://github.com/shubhattin/padavali)** - A sanskrit word game to learn Ancient Sanskrit Wisdom is an interactive and engaging manner. Play and share youe achivements with your friends. Play the word game in multiple Scripts (with Lipi Lekhika Integration)
-- **[Akshara](https://github.com/shubhattin/akshara-shikshaka/)** - A Platform for Interactive Script and Language Learning. Practice Script Gestures, Learn Pronunciations of words in different Scripts (powered by Lipi Lekhika).
-
-</div>
-
 <!-- ---
 
 ## 📊 GitHub Analytics -->
@@ -98,6 +97,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhattin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhattin@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shubhattin)
+
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shubhattin.github.io) -->
 
 </div>
